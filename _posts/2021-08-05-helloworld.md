@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 大家好，我来了！
-categories: 杂文
+title: "大家好，我来了！"
+categories: 杂文, 废话
 ---
 
 # 欢迎来到我的博客！！！
