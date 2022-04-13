@@ -14,7 +14,7 @@ permalink: /about/
 
 当然我也喜欢二次元、游戏、摄影等。
 
-我也是 Louis Studio 成员之一，[Aeilot](https://github.com/aeilot) 是我弟。。。
+我也是 Louis Studio 成员之一
 
 # 关于博客
 
